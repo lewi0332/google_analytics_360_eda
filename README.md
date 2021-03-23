@@ -39,7 +39,7 @@ Analysis of ecommerce data from Google Analytics 360 exported to BigQuery from t
 
 This exercise is intended to demonstrate an understanding of 360 data as well as the use of Google's BigQuery cloud database.
 
-### Three Questions of the data
+**Three Questions of the data**
 - Do macOS/iOS affected by traffic source in the same way... organic, paid display. Are targeted ads less effective on iOS?
 - Do macOS/iOS users purchase more than windows/android users?
 - Is there a correlation of refering traffic to higher average order value?
