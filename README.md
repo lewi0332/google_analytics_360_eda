@@ -35,14 +35,16 @@ For further information about the dataset and how to access it, please visit Goo
 
 ## Project Motivation<a name="project_motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+Analysis of ecommerce data from Google Analytics 360 exported to BigQuery from the Google Merchandise Store.
 
-How other developers suggested breaking into the field (what education to pursue)?
-What factors about an individual contributed to salary?
-How bias played a role in the suggestions of developers for how to break into the field?
-What was the state of bootcamps for assisting individuals with breaking into developer roles?
-How were bootcamps assisting with increasing diversity in tech careers?
-The full set of files related to this course are owned by Udacity, so they are not publicly available here. However, you can see pieces of the analysis here. This README also serves as a template for students to follow in creating their own project README files.
+This exercise is intended to demonstrate an understanding of 360 data as well as the use of Google's BigQuery cloud database.
+
+### Three Questions of the data
+- Do macOS/iOS affected by traffic source in the same way... organic, paid display. Are targeted ads less effective on iOS?
+- Do macOS/iOS users purchase more than windows/android users?
+- Is there a correlation of refering traffic to higher average order value?
+
+
 
 ## File Description<a name="file_description"></a>
 
